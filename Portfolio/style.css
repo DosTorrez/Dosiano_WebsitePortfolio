@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: auto;
+}
+
+body {
+    background-color:gray;
+}
+
+h1{
+    background-color: maroon;
+    text-align: left;
+    font-size: 75px;
+}
+
+
+
+
+.h3{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30px;
+
+  
+
+}
+
+.header h1{
+    background-color: maroon; 
+    display: inline-block;
+    font-size: 48px;
+}
+
+
+.topnav{
+    background-color: maroon;
+    overflow: hidden;
+}
+
+.topnav a{ 
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: gray;
+    color: black;
+    
+}
+
+.topnav a.active{
+    background-color: maroon;
+    color: gray;
+}
+
+
+.header div{
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 20px;
+}
+section {
+    text-align: center;
+    font-size: large;
+
+}
+
+.About-Me{
+
+}
+
+
+div{
+    display: block;
+}
+
+.nav{
+    padding-top: 0px;
+    margin-right: 0px;
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.section h1 {
+    display: inline-block;
+    font-size: 45px;
+}
